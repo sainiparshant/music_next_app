@@ -1,0 +1,105 @@
+{
+    "courses":[
+    {
+        "id": 1,
+        "title": "Beginner Guitar Lessons",
+        "slug": "beginner-guitar-lessons",
+        "description": "Learn the basics of playing guitar, including chords, strumming, and simple songs.",
+        "price": 1999,
+        "instructor": "Jake Morrison",
+        "isFeatured": true,
+        "image": "https://images.unsplash.com/photo-1516924962500-2b4b3b99ea02?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 2,
+        "title": "Piano for Beginners",
+        "slug": "piano-for-beginners",
+        "description": "A step-by-step guide to playing piano from scratch, ideal for all age groups.",
+        "price": 2499,
+        "instructor": "Lily Evans",
+        "isFeatured": true,
+        "image": "https://plus.unsplash.com/premium_photo-1673296664038-668b6506b8f0?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 3,
+        "title": "Music Theory Essentials",
+        "slug": "music-theory-essentials",
+        "description": "Understand the fundamentals of music theory, scales, intervals, and chords.",
+        "price": 1599,
+        "instructor": "David Green",
+        "isFeatured": false,
+        "image": "https://images.unsplash.com/photo-1584000166179-d95db66ac613?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 4,
+        "title": "Electronic Music Production",
+        "slug": "electronic-music-production",
+        "description": "Produce EDM, Lo-fi, and Hip-Hop beats using FL Studio and Ableton Live.",
+        "price": 3999,
+        "instructor": "Sophie Lin",
+        "isFeatured": true,
+        "image": "https://images.unsplash.com/photo-1536295677096-0aafbaa8e22c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 5,
+        "title": "Masterclass: Vocal Training",
+        "slug": "vocal-training-masterclass",
+        "description": "Improve your vocal range, tone, and breathing with guided vocal exercises.",
+        "price": 2999,
+        "instructor": "Chris Walters",
+        "isFeatured": false,
+       "image": "https://images.unsplash.com/photo-1584000166179-d95db66ac613?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 6,
+        "title": "Drumming for All Levels",
+        "slug": "drumming-for-all-levels",
+        "description": "Explore rhythm, timing, and beat techniques on acoustic and digital drums.",
+        "price": 2799,
+        "instructor": "Tina Gomez",
+        "isFeatured": true,
+        "image": "https://images.unsplash.com/photo-1543443374-b6fe10a6ab7b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 7,
+        "title": "Music Composition & Arrangement",
+        "slug": "music-composition-arrangement",
+        "description": "Learn how to compose, arrange, and orchestrate original music.",
+        "price": 3499,
+        "instructor": "Alan Reed",
+        "isFeatured": false,
+         "image": "https://images.unsplash.com/photo-1536295677096-0aafbaa8e22c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 8,
+        "title": "Advanced Guitar Techniques",
+        "slug": "advanced-guitar-techniques",
+        "description": "Take your guitar skills to the next level with fingerstyle, tapping, and soloing.",
+        "price": 3299,
+        "instructor": "Jake Morrison",
+        "isFeatured": false,
+         "image": "https://images.unsplash.com/photo-1516924962500-2b4b3b99ea02?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 9,
+        "title": "DJ Mixing and Turntablism",
+        "slug": "dj-mixing-turntablism",
+        "description": "Learn to mix tracks, scratch, and perform live sets as a professional DJ.",
+        "price": 3699,
+        "instructor": "Mark Dwayne",
+        "isFeatured": true,
+        "image": "https://images.unsplash.com/photo-1647160494152-4c8eb24a844b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 10,
+        "title": "Singing for Stage and Studio",
+        "slug": "singing-for-stage-studio",
+        "description": "Develop stage presence and studio recording skills for live and recorded singing.",
+        "price": 3099,
+        "instructor": "Emily Rose",
+        "isFeatured": false,
+         "image": "https://images.unsplash.com/photo-1516924962500-2b4b3b99ea02?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+    ]
+
+}
